@@ -10,7 +10,9 @@ namespace SlugCatpanion
     // There are two types of dependencies:
     // 1. BepInDependency.DependencyFlags.HardDependency - The other mod *MUST* be installed, and your mod cannot run without it. This ensures their mod loads before yours, preventing errors.
     // 2. BepInDependency.DependencyFlags.SoftDependency - The other mod doesn't need to be installed, but if it is, it should load before yours.
+
     //[BepInDependency("author.some_other_mods_guid", BepInDependency.DependencyFlags.HardDependency)]
+
     // Of course, you should erase the line above. It's just an example.
 
     // As mentioned before, if the other modder uses constant strings, you can do something like this instead:
