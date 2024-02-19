@@ -1,0 +1,2 @@
+Make sure to move the entire slugcatpanion/ folder into RainWorld/RainWorld_Data/StreamingAssets/mods. 
+If you have never opened up the contents folder of a steam game, it should be located in C:Program\ Files\ (x86)/Steam/steamapps/common

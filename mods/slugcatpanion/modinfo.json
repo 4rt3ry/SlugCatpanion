@@ -1,0 +1,11 @@
+{
+	"id": "slugcatpanion",
+	"name": "Slug Catpanion",
+	"version": "1.0.0",
+	"hide_version": true,
+	"authors": "Arthur Powers",
+	"description": "Slugcat has died 1739 times. Slugcat no want death. Slugcat want friend.",
+	"requirements": [],
+	"requirements_names": [],
+	"checksum_override_version": false
+}
